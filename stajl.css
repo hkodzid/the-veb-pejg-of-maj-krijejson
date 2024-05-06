@@ -2,8 +2,3 @@ h1{text-align: center;}
 
 html{background-color: aliceblue;}
 
-.grid-container {
-    display: grid;
-    column-gap: 50px;
-    row-gap: 50px;
-}
