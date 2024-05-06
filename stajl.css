@@ -3,8 +3,8 @@ font-family: 'Times New Roman', Times, serif;}
 
 html{background-color: paleturquoise;}
 
-grid-container{
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-}
+grid-container{font-family: 'Times New Roman', Times, serif;}
 
+html{
+    text-align: center;
+}
